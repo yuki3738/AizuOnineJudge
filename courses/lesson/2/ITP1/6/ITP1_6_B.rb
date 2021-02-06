@@ -1,4 +1,4 @@
-PATTERNS = %w(S H C D).freeze
+PATTERNS = %w[S H C D].freeze
 n = gets.to_i
 cards = []
 
